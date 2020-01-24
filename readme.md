@@ -5,16 +5,17 @@ Feel free to refer to this, share it, use it in your own classes, suggest change
 
 www.jacobheftmann.com/teaching
 
+*extensions and modifications by [@m4rk3r](https://github.com/m4rk3r) 1/23/20*
+
 <hr>
 
 ### Code snippets, examples, and demos
 + Starter HTML template – `code-snippets/project-template`
 
 ### Code editors
-+ [TextWrangler](http://www.barebones.com/products/textwrangler/)
++ [Visual Studio Code (VS Code)](https://code.visualstudio.com/)
 + [Atom](https://atom.io)
 + [Sublime Text](https://www.sublimetext.com)
-+ [Notepad++](https://notepad-plus-plus.org)
 
 ### FTP
 + [CyberDuck](http://cyberduck.io)
@@ -27,10 +28,6 @@ www.jacobheftmann.com/teaching
 ### Plugins directories
 + [Unheap](http://www.unheap.com)
 
-### Scripts
-+ [Bindery.js](https://github.com/evnbr/bindery) – create a book out of a web page
-+ [Blast.js](http://velocityjs.org/blast/) – explode text strings
-
 ### Other tools
 + [Codepen](http://www.codepen.io)
 + [MAMP](https://www.mamp.info/en/)
@@ -38,14 +35,9 @@ www.jacobheftmann.com/teaching
 + [Chrome DevTools](https://developer.chrome.com/devtools)
 + [Open Graph](http://ogp.me)
 
-### Hosting, CMS, etc.
-+ [Small Victories](http://www.smallvictori.es)
+### Hosting
 + [Github Pages](https://pages.github.com)
-+ [Netlify](https://www.netlify.com)
 + [Jekyll](https://jekyllrb.com)
-+ [Readymag](https://readymag.com)
-+ [Cargo](https://2.cargocollective.com)
-+ [Persona](https://persona.co)
 
 ### Bugs, Testing & Standards
 + [StackOverflow](http://stackoverflow.com)
@@ -56,7 +48,6 @@ www.jacobheftmann.com/teaching
 
 ### Animation
 + [Easing Functions Cheat Sheet](https://easings.net/en)
-+ [After Effects Guide](https://drive.google.com/file/d/1YKw6T44emGe99bS8qb93XtoJMa7dssA1/view)
 
 ### Files
 + [Dealing with Files](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files)
@@ -82,11 +73,7 @@ www.jacobheftmann.com/teaching
 + [CSS Specificity 2](https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity)
 + [Opening the Box Model](https://learn.shayhowe.com/html-css/opening-the-box-model/)
 + [CSS Shapes](https://css-tricks.com/examples/ShapesOfCSS/)
-+ [Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-+ [Flex sizing tests](https://codepen.io/jheftmann/pen/OBWMGm)
 
-##### SCSS
-+ [Workshopper–Learn SASS](https://github.com/workshopper/learn-sass)
 
 ### Layout
 + [Learn CSS Layout](http://learnlayout.com)
@@ -94,10 +81,9 @@ www.jacobheftmann.com/teaching
 + [CSS Positioning 2](https://www.youtube.com/watch?v=Rf6zAP4YnZA)
 + [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 + [Flexbox in 5 minutes](https://cvan.io/flexboxin5/)
++ [Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 + [How Big Is That Flexible Box?](https://www.smashingmagazine.com/2018/09/flexbox-sizing-flexible-box/)
-+ [Flexbox sizing demo](https://codepen.io/jheftmann/pen/OBWMGm)
 + [Introduction to CSS Grid](https://mozilladevelopers.github.io/playground/css-grid)
-+ [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 + [CSS grid demo](https://codepen.io/jheftmann/pen/GLqvEN)
 + [Grid by Example](https://gridbyexample.com)
 
@@ -105,13 +91,10 @@ www.jacobheftmann.com/teaching
 + [Mozilla’s JS Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
 + [jQuery Basics](http://jqfundamentals.com/chapter/jquery-basics)
 + [Learn jQuery in 15 minutes](https://www.youtube.com/playlist?list=PLqGj3iMvMa4KOekRWjjajinzlRK879Ksn)
-+ [Array demos](https://codepen.io/jheftmann/pen/EJmxZY)
 
 ### Drawing tools
 + [Processing.js](http://processingjs.org)
 + [D3](https://d3js.org)
-+ [Rune.js](http://runemadsen.github.io/rune.js/)
-+ [Two.js](https://github.com/jonobr1/two.js#custom-build)
 
 ### Accessibility
 + [W3C Accessibility guidelines](https://www.w3.org/standards/webdesign/accessibility)
@@ -119,7 +102,7 @@ www.jacobheftmann.com/teaching
 + [Designing For Accessibility And Inclusion](https://www.smashingmagazine.com/2018/04/designing-accessibility-inclusion/)
 
 ### Git
-+ [Learn Git](https://www.atlassian.com/git)
++ [Learn Git](https://guides.github.com/introduction/git-handbook/)
 
 ### Markdown
 + [Markdown: Syntax](https://daringfireball.net/projects/markdown/syntax)
@@ -128,15 +111,13 @@ www.jacobheftmann.com/teaching
 <hr>
 
 ## Example projects
-+ [clickclickclick](https://clickclickclick.click)
+
 
 <hr>
 
 ## Tutorials
-+ [General Assembly Dash](https://dash.generalassemb.ly)
 + [Learn Chrome's Dev Tools](http://discover-devtools.codeschool.com/chapters/1/)
-+ [Front-end Interview Handbook (Yangshun Tay)](https://github.com/yangshun/front-end-interview-handbook)
-
++ [Kahn Academy intro to HTML/CSS: Marking Webpages](https://www.khanacademy.org/computing/computer-programming/html-css)
 <hr>
 
 ## Teachers, Classes & Programs
@@ -176,6 +157,9 @@ www.jacobheftmann.com/teaching
 + [The Web Fonts: Preloaded](https://www.zachleat.com/web/preload/), Leatherman
 + [A Comprehensive Guide to Font Loading Strategies](https://www.zachleat.com/web/comprehensive-webfonts/), Leatherman
 + [Educational Discounts for Fonts](http://kupferschrift.de/cms/fonts-edu-discounts/) directory, Kupferschmid
+
+### Open Source Fonts
++ [are.na open source font collection](https://www.are.na/laurel-schwulst/open-source-web-fonts)
 
 ### (Please be wary of) free fonts
 + [Google Fonts](https://fonts.google.com)
